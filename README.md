@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MelonIsTaken
-- 👀 I’m interested in making random projects
-- 🌱 I’m currently learning more about C++
+- I’m interested in making random projects
+- I’m currently learning more about C++
 
 
 <!---
